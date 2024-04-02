@@ -1,7 +1,7 @@
 #  About Me
 🌍  I'm from Recife
 
-✉️  You can contact me at Diegoarroxelas@gmail
+✉️  You can contact me at Diegoarroxelas@gmail.com
 
 🧠  I'm learning python and Javascrpt
 # skils
